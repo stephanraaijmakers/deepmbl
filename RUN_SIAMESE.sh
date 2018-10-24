@@ -1,0 +1,1 @@
+python siamese_mbl.py data/dimin.train.IB1.O.gr.k5.out data/dimin.test.IB1.O.gr.k5.out > results/dimin.test.IB1.O.gr.k5.out.NN_PREDS
